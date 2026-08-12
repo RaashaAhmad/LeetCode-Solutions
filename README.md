@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/RaashaAhmad/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/RaashaAhmad/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
@@ -63,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/RaashaAhmad/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/RaashaAhmad/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->

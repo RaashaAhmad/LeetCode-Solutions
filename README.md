@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/RaashaAhmad/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0704-binary-search](https://github.com/RaashaAhmad/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/RaashaAhmad/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
+| [0875-koko-eating-bananas](https://github.com/RaashaAhmad/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 ## Hash Table
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/RaashaAhmad/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0704-binary-search](https://github.com/RaashaAhmad/LeetCode-Solutions/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/RaashaAhmad/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 ## Greedy
 |  |
 | ------- |
